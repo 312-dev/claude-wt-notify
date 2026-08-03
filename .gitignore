@@ -1,0 +1,4 @@
+# Local runtime state, never part of the repo
+*.log
+*.pid
+unread/
